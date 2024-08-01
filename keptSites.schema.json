@@ -1,0 +1,13 @@
+
+{
+    "$comment": "Chrome API - HistoryItem",
+    "id": "123",
+    "url": "https://example.com",
+    "title": "Example",
+    "lastVisitTime": 1622558400000,
+    "transitionType": "",
+    "dateAdded": "",
+    "$comment": "Custom",
+    "links": [],
+    "tags": []
+}
